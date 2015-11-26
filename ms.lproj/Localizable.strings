@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  LockWatch_Test
+
+  Created by Janik Schmidt on 15.11.15.
+  Copyright © 2015 Janik Schmidt (Sniper_GER). All rights reserved.
+*/
+
+"SIMPLE" = "Mudah";
+"COLOR" = "Warna";
+"WEATHER" = "Cuaca";
+"CHRONO" = "Kronograf";
+"X-LARGE" = "Ekstra Besar";
+
+"CUSTOMIZE" = "Pengubah";
+
+"LOCATION_TITLE" = "Memerlukan Servis Lokasi";
+"LOCATION_DESCRIPTION" = "Servis Lokasi Diperlukan untuk menambah baik \"Cuaca\" muka jam. Jika kamu menyahkan Servis Lokasi, sila pergi ke Settings > Privasi > Servis Lokasi dan membolehkannya. Jangan risau, lokasi anda tidak akan dihantar kepada sesiapa.";
+
+"SETTINGS" = "Setting";
+"SETTINGS_GENERAL" = "Umum";
+"SETTINGS_WATCHFACES" = "Muka Jam";
+"SETTINGS_PRIVACY" = "Privasi";
+"SETTINGS_GRAPHICS" = "Grafik";
+
+"SETTINGS_GENERAL_FOOTER" = "Versi 1.0 (151124-0938)";
+
+"SETTINGS_WATCHFACES_AVAILABLE" = "Muka Jam yang ada";
+"SETTINGS_WATCHFACES_AVAILABLE_FOOTER" = "Menyahkan muka jam akan menambah baik prestasi.";
+
+"SETTINGS_PRIVACY_LOCATION" = "Servis Lokasi";
+"SETTINGS_PRIVACY_WOEID" = "Set WOEID untuk Cuaca";
+"SETTINGS_PRIVACY_WOEID_ALERT_TITLE" = "Set WOEID";
+"SETTINGS_PRIVACY_WOEID_ALERT_DESCRIPTION" = "Set WOEID (Where On Earth ID) untuk lokasi yang kamu ingin paparkan pada \"Cuaca\" muka jam.";
+"SETTINGS_PRIVACY_WOEID_ALERT_OK" = "Set";
+"SETTINGS_PRIVACY_WOEID_ALERT_CANCEL" = "Batal";
+
+"SETTINGS_GRAPHICS_AA" = "Anti-Aliasing";
+"SETTINGS_GRAPHICS_AA_FOOTER" = "Menyahkan Anti-Aliasing menambah baik prestasi tapi mengurangkan kualiti paparan.";
